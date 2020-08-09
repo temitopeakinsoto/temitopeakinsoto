@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Getting a software engineering position at an exciting startup company. 
 - 💬 Ask me about Python, Javascript, React, Node
-- 📫 How to reach me via [LinkedIn](https://www.linkedin.com/in/temitopeakinsoto) || [Twitter](https://www.twitter.com/Dev_temitope)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/temitopeakinsoto) || [Twitter](https://www.twitter.com/Dev_temitope)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play football
 
