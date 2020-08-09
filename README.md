@@ -1,6 +1,6 @@
 ### Hi there, I'm Temi 👋
 
-I have a passion for all things software development and I enjoy building software products. Nothing that excites me more than solving complex technical problems, building high-quality applications, and applying the latest technologies to solve people's needs. 
+I'm a full-stack software engineer with a passion for building high-quality, highly scalable software applications. Nothing excites me more than using technologies to solve people's needs. 
 
 When I'm not working on a project, then I'm probably on youtube, either watching a programming tutorial or short movies and music videos. And if I'm not doing any of those, then I'm probably out with my friends. otherwise, I'm on my bed sleeping for sure!
 
