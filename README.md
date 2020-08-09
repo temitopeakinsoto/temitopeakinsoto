@@ -1,4 +1,4 @@
-### Hi there, here is what I'm working on 👋
+### Hi there, I'm Temi 👋
 
 I have a passion for all things software development and I enjoy building software products. Nothing that excites me more than solving complex technical problems, building high-quality applications, and applying the latest technologies to solve people's needs. 
 
