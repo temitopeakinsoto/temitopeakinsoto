@@ -4,7 +4,7 @@ I'm a software engineer with a passion for building high-quality, highly scalabl
 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Getting a software engineering position at an exciting startup company. 
-- 💬 Ask me about Python, Javascript, React, Node
+- 💬 Ask me about React, Javascript, Typscript, Node, Python, Java, C#
 - 📫 You can reach me via [Email](mailto:takinsoto@gmail.com) || [LinkedIn](https://www.linkedin.com/in/temitopeakinsoto) || [Twitter](https://www.twitter.com/Dev_temitope)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play football
