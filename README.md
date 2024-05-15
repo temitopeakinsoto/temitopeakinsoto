@@ -1,9 +1,7 @@
 ### Hi there, I'm Temi 👋
 
-I'm a full-stack software engineer with a passion for building high-quality, highly scalable software applications. Nothing excites me more than using technologies to solve people's needs. 
+I'm a software engineer with a passion for building high-quality, highly scalable software applications. Nothing excites me more than using technologies to solve people's needs.   
 
-
-- 🔭 I’m currently working on building the next generation of African software engineers through the [Google Africa Developers' Scholarship Program](https://gads.andela.com/)  
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Getting a software engineering position at an exciting startup company. 
 - 💬 Ask me about Python, Javascript, React, Node
